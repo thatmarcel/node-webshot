@@ -24,7 +24,8 @@
   "dependencies": {
     "graceful-fs": "~4.1.15",
     "cross-spawn": "^0.2.3",
-    "tmp": "~0.0.25"
+    "tmp": "~0.0.25",
+    "phantomjs": "~2.1.1"
   },
   "optionalDependencies": {
     "phantomjs-prebuilt": "^2.1.3"
